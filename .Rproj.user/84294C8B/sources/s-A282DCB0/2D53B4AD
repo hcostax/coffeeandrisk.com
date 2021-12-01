@@ -1,0 +1,26 @@
+{
+    "id": "2D53B4AD",
+    "path": "~/GitHub/coffeeandrisk.com/config/_default/config.yaml",
+    "project_path": "config/_default/config.yaml",
+    "type": "yaml",
+    "hash": "3590145544",
+    "contents": "",
+    "dirty": false,
+    "created": 1638316986321.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,35",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1638317029,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1638317029184,
+    "read_only": false,
+    "read_only_alternatives": []
+}
