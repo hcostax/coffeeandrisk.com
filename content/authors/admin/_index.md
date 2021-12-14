@@ -24,9 +24,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hcostax
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/hcostax
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/hcostax
 - display:
     header: true
   
