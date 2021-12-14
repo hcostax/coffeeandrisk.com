@@ -17,8 +17,8 @@ interests:
 - Econometria
 - Ciência de Dados
 organizations:
-- name: Liberum Ratings
-  url: http://www.liberumratings.com.br/
+- name: M.Sc. Economia aplicada
+  url: 
 role: Analista de Riscos
 social:
 - icon: linkedin
