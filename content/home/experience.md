@@ -3,14 +3,17 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
+# Activate this widget? true/false
+active: true
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
-subtitle:
+title: Experiência Relevante
+subtitle: 
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,28 +25,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
+  - title: Analista de Risco
+    company: Liberum Ratings
+    company_url: 'http://www.liberumratings.com.br'
+    company_logo: liberum
+    location: São Paulo/SP
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Responsabilidades incluem:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Avaliação de riscos em Finanças Estruturadas;
+        * Atribuições e monitoramento de classificações de risco _(ratings)_;
+        * Avaliações de riscos de mercado (macroeconômicos);
+        * Avaliações de riscos setoriais (microeconômicos);
+        * Desenvolvimento de modelagem (econométrico & _machine learning_) para avaliação de risco;
+        * _ESG rating_: desenvolvimento e avaliação de fatores de riscos _ESG_.  
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  
 
 design:
   columns: '2'

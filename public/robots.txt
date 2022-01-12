@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://coffeeandrisk.com/sitemap.xml

@@ -41,7 +41,7 @@ superuser: true
 title: Henrique Costa
 ---
 
-Este site tem o objetivo de funcionar como um blog, onde estarei compartilhando meus conhecimentos e temas que quero aprender, tudo relacionado à risco financeiros. 
+Este site tem o objetivo de funcionar como um blog, onde estarei compartilhando meus conhecimentos e temas que tenho interesse, relacionado à **_riscos financeiros_**. 
 
 Sou Mestre em Economia Aplicada, e entusiasta das análises de validação empirica. Tomador de risco nato, atuo como analista de riscos financeciros. Tenho “preferência revelada” por Cold Brew Vanilla (o tal do café gelado com baunilha), pizza não pode faltar, microeconomia, econometria e R.
 
