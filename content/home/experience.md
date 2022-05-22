@@ -25,13 +25,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Analista de Riscos Financeiros
+    company: Crefisa
+    company_url: 'https://www.crefisa.com.br/'
+    company_logo: crefisa
+    location: São Paulo/SP
+    date_start: '2022-02-14'
+    date_end: ''
+    description: |2-
+        Responsabilidades incluem:
+        
+        * Relatórios regulatórios de Gestão de Riscos Financeiros:
+          * DDR, DRM, DRL, DLO e DLI.
+        * Estruturação de dados e informações que auxiliem a tomada de decisão através de _datamarts_ de risco;
+        * Acompanhamento das tendências de inadimplência e desempenho de portfólio;
+        * Esforços de automação em todo o departamento;
+        * Desenvolvimento de modelagem (econométrico & _machine learning_) para avaliação de riscos financeiros;
+          
+        
+        
   - title: Analista de Risco
     company: Liberum Ratings
     company_url: 'http://www.liberumratings.com.br'
     company_logo: liberum
     location: São Paulo/SP
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2022-01-30'
     description: |2-
         Responsabilidades incluem:
         
@@ -41,6 +60,8 @@ experience:
         * Avaliações de riscos setoriais (microeconômicos);
         * Desenvolvimento de modelagem (econométrico & _machine learning_) para avaliação de risco;
         * _ESG rating_: desenvolvimento e avaliação de fatores de riscos _ESG_.  
+        
+        
         
   
 
